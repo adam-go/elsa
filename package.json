@@ -1,7 +1,7 @@
 {
   "name": "elsa",
   "description": "A node.js client for elasticsearch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Adam Gould",
     "email": "agould@alum.rpi.edu"
