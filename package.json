@@ -1,0 +1,14 @@
+{
+  "name": "elsa",
+  "description": "A node client for ElasticSearch",
+  "version": "0.0.1",
+  "author": {
+    "name": "Adam Gould",
+    "email": "AdamGould@mail.sunyjcc.edu"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "request": "2.12.x",
+    "lodash": "1.1.x"
+  }
+}
